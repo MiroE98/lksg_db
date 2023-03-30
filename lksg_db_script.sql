@@ -60,10 +60,29 @@ values
 
 INSERT INTO lksg_verstoss  (verstoss_id, verstossart_char)
 values
-(1, 'Kinderarbeit'),
-(2, 'Sklaverei'),
-(3, 'kein Arbeitsschutz'),
-(0, 'clean');
+(1, 'clean')
+(2, 'Kinderarbeit'),
+(3, 'Zwangsarbeit'),
+(4, 'Sklaverei'),
+(5, 'Arbeitsschutz'),
+(6, 'Koalitionsfreiheit'),
+(7, 'Diskriminierung'),
+(8, 'Mindestlohn'),
+(9, 'Umweltverschmutzung'),
+(10, 'Zwangsraeumung'),
+(11, 'Sicherheitskraefte'),
+(12, 'Sonstiges'),
+(13, 'Verdacht Kinderarbeit'),
+(14, 'Verdacht Zwangsarbeit'),
+(15, 'Verdacht Sklaverei'),
+(16, 'Verdacht Arbeitsschutz'),
+(17, 'Verdacht Koalitionsfreiheit'),
+(18, 'Verdacht Diskriminierung'),
+(19, 'Verdacht Mindestlohn'),
+(20, 'Verdacht Umweltverschmutzung'),
+(21, 'Verdacht Zwangsraeumung'),
+(22, 'Verdacht Sicherheitskraefte'),
+(23, 'Verdacht Sonstiges');
 
 ---------------------------------------------------------------------
 -- Select on Suppliers of a Company
